@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(235, 145, 10);
+    margin-top: 10px;
+  }
+  
+  img {
+    width: 200px;
+    height: 100px;
+  }
+  
+  div {
+    border-radius: 5px;
+    border: solid rgb(235, 145, 10) 3px;
+    width: 205px;
+    height: 300px;
+    display: inline-block;
+    margin: 10px;
+  }
+  button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: rgb(235, 145, 10);
+    color: white;
+    border-radius: 7px;
+  }
